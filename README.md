@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello
+Writing a stereotypical welcome to a website
+
